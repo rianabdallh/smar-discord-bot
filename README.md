@@ -1,3 +1,8 @@
+![smar logo](./شعار-سمار.png)
+
+
+
+
 # smar-discord-bot# 🎧 smar - Discord Music Bot
 
 **smar** is a modern, Gulf-inspired music bot built for Discord.  
