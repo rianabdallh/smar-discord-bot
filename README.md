@@ -1,4 +1,3 @@
-![شعار smar](./شعار%20سمار.png)
 
 # 🎧 smar - Discord Music Bot
 
