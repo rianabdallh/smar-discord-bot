@@ -1,8 +1,9 @@
-<p align="center">
-  <img src="./شعار%20سمار.png" alt="Smar Logo" width="250"/>
-</p>
+![شعار smar](./شعار%20سمار.png)
 
 # 🎧 smar - Discord Music Bot
+
+**smar** is a modern, Gulf-inspired music bot built for Discord.
+...
 
 
 
