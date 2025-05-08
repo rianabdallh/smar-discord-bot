@@ -1,3 +1,6 @@
+![smar logo](./shaar-smar.png)
+
+
 
 # 🎧 smar - Discord Music Bot
 
