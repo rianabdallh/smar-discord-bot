@@ -1,4 +1,9 @@
-![smar logo](./شعار-سمار.png)
+<p align="center">
+  <img src="./شعار%20سمار.png" alt="Smar Logo" width="250"/>
+</p>
+
+# 🎧 smar - Discord Music Bot
+
 
 
 
