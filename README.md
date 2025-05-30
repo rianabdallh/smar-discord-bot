@@ -40,7 +40,7 @@ You'll instantly hear the audio — and you’ll get a download option right aft
 
 ## 📎 Invite the bot
 
-👉 [Click here to invite smar to your server](https://discord.com/oauth2/authorize?client_id=1315287837477703740&permissions=433392516688&integration_type=0&scope=bot)
+👉 [Click here to invite smar to your server](https://discord.com/oauth2/authorize?client_id=1315287837477703740&permissions=8&integration_type=0&scope=bot+applications.commands)
 
 ---
 
